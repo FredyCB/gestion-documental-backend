@@ -38,6 +38,7 @@ Backend completo de un **Sistema de Gestión Documental** desarrollado con **Nod
 
 ## Estructura del proyecto
 backend/
+
 ├── src/
 
 │   ├── config/

@@ -39,16 +39,16 @@ Backend completo de un **Sistema de Gestión Documental** desarrollado con **Nod
 ## Estructura del proyecto
 backend/
 ├── src/
-│   ├── config/           # Configuración (DB, Swagger)
-│   ├── controllers/      # Lógica de negocio
-│   ├── middlewares/      # Auth, permisos, validaciones, upload
-│   ├── routes/           # Definición de endpoints
-│   ├── schemas/          # Validaciones Zod
-│   ├── utils/            # JWT, generación de códigos
-│   ├── scripts/          # Scripts de utilidad (seed)
+│   ├── config/
+│   ├── controllers/
+│   ├── middlewares/
+│   ├── routes/
+│   ├── schemas/
+│   ├── utils/
+│   ├── scripts/
 │   ├── app.ts
 │   └── server.ts
-├── uploads/              # Archivos subidos
+├── uploads/
 ├── .env
 ├── package.json
 ├── tsconfig.json

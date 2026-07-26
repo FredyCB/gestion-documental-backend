@@ -1,6 +1,6 @@
 # API Gestión Documental
 
-Backend completo de un **Sistema de Gestión Documental** desarrollado con **Node.js + TypeScript + Express + PostgreSQL** (sin ORM).
+Backend completo de un **Sistema de Gestión Documental** desarrollado con **Node.js + TypeScript + Express + PostgreSQL**.
 
 ---
 
@@ -28,7 +28,7 @@ Backend completo de un **Sistema de Gestión Documental** desarrollado con **Nod
 | TypeScript       | Tipado estático              |
 | Express          | Framework web                |
 | PostgreSQL       | Base de datos                |
-| pg               | Cliente PostgreSQL (sin ORM) |
+| pg               | Cliente PostgreSQL           |
 | JWT + bcryptjs   | Autenticación                |
 | Zod              | Validaciones                 |
 | Multer           | Subida de archivos           |
